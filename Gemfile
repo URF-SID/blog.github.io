@@ -28,5 +28,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "addressable", ">= 2.8.0"
 gem "rubyzip", ">= 1.3.0"
 gem "ffi", ">= 1.9.24"
-gem "kramdown", ">= 2.3.0"
 gem "nokogiri", ">= 1.11.4"
